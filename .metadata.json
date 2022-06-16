@@ -1,0 +1,26 @@
+[
+  {
+    "package": "GenomeAdmixR",
+    "oncran": true
+  },
+  {
+    "package": "GUILDS",
+    "oncran": true
+  },
+  {
+    "package": "junctions",
+    "oncran": true
+  },
+  {
+    "package": "nLTT",
+    "oncran": true
+  },
+  {
+    "package": "nodeSub",
+    "oncran": true
+  },
+  {
+    "package": "STEPCAM",
+    "oncran": true
+  }
+]
