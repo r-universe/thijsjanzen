@@ -23,11 +23,6 @@
 	url = https://github.com/thijsjanzen/nltt
 	shallow = true
 	registered = true
-[submodule "nodeSub"]
-	path = nodeSub
-	url = https://github.com/thijsjanzen/nodesub
-	shallow = true
-	registered = true
 [submodule "STEPCAM"]
 	path = STEPCAM
 	url = https://github.com/thijsjanzen/stepcam
