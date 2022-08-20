@@ -16,6 +16,10 @@
     "oncran": true
   },
   {
+    "package": "nodeSub",
+    "oncran": true
+  },
+  {
     "package": "STEPCAM",
     "oncran": true
   }
