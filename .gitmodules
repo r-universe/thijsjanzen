@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "junctions"]
-	path = junctions
-	url = https://github.com/thijsjanzen/junctions
+[submodule "GenomeAdmixR"]
+	path = GenomeAdmixR
+	url = https://github.com/thijsjanzen/genomeadmixr
 	shallow = true
 	registered = true
 [submodule "GUILDS"]
@@ -13,14 +13,14 @@
 	url = https://github.com/thijsjanzen/guilds
 	shallow = true
 	registered = true
-[submodule "GenomeAdmixR"]
-	path = GenomeAdmixR
-	url = https://github.com/thijsjanzen/genomeadmixr
+[submodule "junctions"]
+	path = junctions
+	url = https://github.com/thijsjanzen/junctions
 	shallow = true
 	registered = true
-[submodule "STEPCAM"]
-	path = STEPCAM
-	url = https://github.com/thijsjanzen/stepcam
+[submodule "nLTT"]
+	path = nLTT
+	url = https://github.com/thijsjanzen/nltt
 	shallow = true
 	registered = true
 [submodule "nodeSub"]
@@ -28,8 +28,8 @@
 	url = https://github.com/thijsjanzen/nodesub
 	shallow = true
 	registered = true
-[submodule "nLTT"]
-	path = nLTT
-	url = https://github.com/thijsjanzen/nltt
+[submodule "STEPCAM"]
+	path = STEPCAM
+	url = https://github.com/thijsjanzen/stepcam
 	shallow = true
 	registered = true
