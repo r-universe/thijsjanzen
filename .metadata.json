@@ -1,6 +1,6 @@
 [
   {
-    "package": "GenomeAdmixR",
+    "package": "junctions",
     "oncran": true
   },
   {
@@ -8,11 +8,11 @@
     "oncran": true
   },
   {
-    "package": "junctions",
+    "package": "GenomeAdmixR",
     "oncran": true
   },
   {
-    "package": "nLTT",
+    "package": "STEPCAM",
     "oncran": true
   },
   {
@@ -20,7 +20,7 @@
     "oncran": true
   },
   {
-    "package": "STEPCAM",
+    "package": "nLTT",
     "oncran": true
   }
 ]
