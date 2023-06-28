@@ -1,35 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "GenomeAdmixR"]
 	path = GenomeAdmixR
 	url = https://github.com/thijsjanzen/genomeadmixr
-	shallow = true
-	registered = true
 [submodule "GUILDS"]
 	path = GUILDS
 	url = https://github.com/thijsjanzen/guilds
-	shallow = true
-	registered = true
 [submodule "junctions"]
 	path = junctions
 	url = https://github.com/thijsjanzen/junctions
-	shallow = true
-	registered = true
 [submodule "nLTT"]
 	path = nLTT
 	url = https://github.com/thijsjanzen/nltt
-	shallow = true
-	registered = true
 [submodule "nodeSub"]
 	path = nodeSub
 	url = https://github.com/thijsjanzen/nodesub
-	shallow = true
-	registered = true
 [submodule "STEPCAM"]
 	path = STEPCAM
 	url = https://github.com/thijsjanzen/stepcam
-	shallow = true
-	registered = true
