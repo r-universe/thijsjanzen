@@ -2,12 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "GenomeAdmixR"]
-	path = GenomeAdmixR
-	url = https://github.com/thijsjanzen/genomeadmixr
 [submodule "GUILDS"]
 	path = GUILDS
 	url = https://github.com/thijsjanzen/guilds
+[submodule "GenomeAdmixR"]
+	path = GenomeAdmixR
+	url = https://github.com/thijsjanzen/genomeadmixr
+[submodule "STEPCAM"]
+	path = STEPCAM
+	url = https://github.com/thijsjanzen/stepcam
 [submodule "junctions"]
 	path = junctions
 	url = https://github.com/thijsjanzen/junctions
@@ -17,6 +20,3 @@
 [submodule "nodeSub"]
 	path = nodeSub
 	url = https://github.com/thijsjanzen/nodesub
-[submodule "STEPCAM"]
-	path = STEPCAM
-	url = https://github.com/thijsjanzen/stepcam
