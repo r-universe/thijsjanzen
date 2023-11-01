@@ -20,3 +20,6 @@
 [submodule "nodeSub"]
 	path = nodeSub
 	url = https://github.com/thijsjanzen/nodesub
+[submodule "simRestore"]
+	path = simRestore
+	url = https://github.com/thijsjanzen/simrestore
