@@ -23,3 +23,6 @@
 [submodule "simRestore"]
 	path = simRestore
 	url = https://github.com/thijsjanzen/simrestore
+[submodule "treestats"]
+	path = treestats
+	url = https://github.com/thijsjanzen/treestats
